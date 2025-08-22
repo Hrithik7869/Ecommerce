@@ -166,4 +166,4 @@ router.get("/searchmail", async (req, res) => {
 
 ## Author
 
-- Github Profile: [@Ernesto](https://github.com/Hrithik7869)
+- Github Profile: [@Hrithik](https://github.com/Hrithik7869)
