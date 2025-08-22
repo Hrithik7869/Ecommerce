@@ -162,12 +162,8 @@ router.get("/searchmail", async (req, res) => {
 
 ## Links
 
-- Github URL: [E-commerce](https://github.com/Ernest2026/E-commerce)
-- Live Site URL: [E-commerce](http://mdbh.herokuapp.com)
+- Github URL: [E-commerce](https://github.com/Hrithik7869)
 
 ## Author
 
-- Github Profile: [@Ernesto](https://github.com/Ernest2026)
-- Dev - [@Ernesto](https://dev.to/ernest2026)
-- Twitter - [@Ernesto](https://www.twitter.com/Ernesto_tech)
-- LinkedIn - [@Ernesto](https://www.linkedin.com/m/in/chidiebere-ernest-1078321ba)
+- Github Profile: [@Ernesto](https://github.com/Hrithik7869)
