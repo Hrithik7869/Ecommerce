@@ -1,7 +1,5 @@
 # E-commerce web app with Nodejs and MongoDB database
 
-This is a solution to the [MongoDB Atlas Hackathon on DEV!](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-on-dev-4b6m).
-
 ## Table of contents
 
 - [MongoDB Atlas Search Features](#mongodb-atlas-search-features)
