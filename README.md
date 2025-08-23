@@ -152,10 +152,6 @@ router.get("/searchmail", async (req, res) => {
 - Expressjs
 - Mongodb
 
-### Continued development
-
-**Note: This E-commerce is not fully functional yet, I was just able to finish the atlas searches for now. I'll be adding other features later on...**
-
 ### Useful resources
 
 - [MongoDB Atlas search docs](https://docs.atlas.mongodb.com/) - This helped me implement the atlas searches. I really liked the search pattern and will use it going forward.
